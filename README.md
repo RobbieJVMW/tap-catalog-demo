@@ -1,2 +1,1 @@
-# tap-catalog-demo
-Tanzu Application Platform Demo Config
+Sample org structure for application catalog
